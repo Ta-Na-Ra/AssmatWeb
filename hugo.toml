@@ -3,7 +3,7 @@ baseURL = 'https://lesminimonstres.fr/'
 title = 'Les Mini Monstres'
 theme = "hugo-theme-massively"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
-defaultContentLanguage = fr
+defaultContentLanguage = 'fr'
 
 # [params]
   # set below parameter to define a favicon
