@@ -1,8 +1,9 @@
 baseURL = 'https://lesminimonstres.fr/'
-languageCode = 'fr-fr'
+#languageCode = 'fr-fr'
 title = 'Les Mini Monstres'
 theme = "hugo-theme-massively"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+defaultContentLanguage: fr
 
 # [params]
   # set below parameter to define a favicon
@@ -22,9 +23,11 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [languages]
 [languages.en]
   languageName = "English"
+  disabled = True
 [languages.es]
   languageName = "Español"
   title = "Massively - Versión Español"
+  disabled = True
 [languages.fr]
   languageName = "Français"
   title = "Massively - Version Française"
