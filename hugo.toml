@@ -1,3 +1,33 @@
 baseURL = 'https://lesminimonstres.fr/'
 languageCode = 'fr-fr'
 title = 'Les Mini Monstres'
+baseURL = "http://localhost:1313/"
+theme = "hugo-theme-massively"
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+
+# [params]
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+  # set to change date format
+  # dateFormat = "2.1.2006"
+  # backgroundPath = "images/bg.jpg"
+
+# Below parameters can be set to override default post settings
+# [params.posts]
+#     folderName = "post"
+#     pageSize = "6"
+#     featuredPost = true
+#     paginationPages = 2
+#     showFirstLast = false
+ 
+[languages]
+[languages.en]
+  languageName = "English"
+[languages.es]
+  languageName = "Español"
+  title = "Massively - Versión Español"
+#[languages.fr]
+#  languageName = "Français"
+#  title = "Massively - Version Française"
+
