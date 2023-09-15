@@ -3,5 +3,5 @@ title:
 - line: 'Monstres'
 
 description:
-- line: 'Test 1'
-- line: 'Test 2'
+- line: 'A configurer dans'
+- line: 'data/fr/intro.yaml'
