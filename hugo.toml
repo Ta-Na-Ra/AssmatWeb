@@ -23,11 +23,11 @@ defaultContentLanguage = 'fr'
 [languages]
 [languages.en]
   languageName = "English"
-  disabled = True
+  disabled = true
 [languages.es]
   languageName = "Español"
   title = "Massively - Versión Español"
-  disabled = True
+  disabled = true
 [languages.fr]
   languageName = "Français"
   title = "Massively - Version Française"
