@@ -1,9 +1,7 @@
 baseURL = 'https://lesminimonstres.fr/'
 languageCode = 'fr-fr'
 title = 'Les Mini Monstres'
-baseURL = "http://localhost:1313/"
 theme = "hugo-theme-massively"
-
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 # [params]
