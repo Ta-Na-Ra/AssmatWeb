@@ -21,13 +21,11 @@ defaultContentLanguage = 'fr'
 #     showFirstLast = false
  
 [languages]
-[languages.en]
-  languageName = "English"
-  disabled = true
-[languages.es]
-  languageName = "Español"
-  title = "Massively - Versión Español"
-  disabled = true
+#[languages.en]
+#  languageName = "English"
+#[languages.es]
+#  languageName = "Español"
+#  title = "Massively - Versión Español"
 [languages.fr]
   languageName = "Français"
   title = "Massively - Version Française"
