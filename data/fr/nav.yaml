@@ -1,7 +1,7 @@
 items:
 - title: "Présentation"
-  url: '/generic-page'
+  url: '/generic-page#pres'
 - title: "Projet d'accueil"
-  url: '/generic-page'
+  url: '/generic-page#acc'
 - title: "Liens utiles"
-  url: '/generic-page'
+  url: '/generic-page#uti'
