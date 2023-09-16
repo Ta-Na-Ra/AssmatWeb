@@ -1,3 +1,7 @@
 items:
+- title: "Présentation"
+  url: '/generic-page'
 - title: "Projet d'accueil"
+  url: '/generic-page'
+- title: "Liens utiles"
   url: '/generic-page'
